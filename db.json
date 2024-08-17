@@ -1,0 +1,44 @@
+{
+  "Displayitems": [
+    {
+      "image": "https://images.pexels.com/photos/2089717/pexels-photo-2089717.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Olive Burger",
+      "price": 199,
+      "type": "Nonveg",
+      "description": "spicy",
+      "id": "1"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1624473/pexels-photo-1624473.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Pastrami Burger",
+      "price": 799,
+      "type": "veg",
+      "description": "spicy",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ptty Melt",
+      "price": 599,
+      "type": "veg",
+      "description": "Nonspicy"
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/1556698/pexels-photo-1556698.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Burger 4",
+      "price": 798,
+      "type": "Nonveg",
+      "description": "spicy"
+    },
+    {
+      "image": "https://images.pexels.com/photos/750073/pexels-photo-750073.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Rice Burger",
+      "price": 999,
+      "type": "Nonveg",
+      "description": "Nonspicy",
+      "id": "5"
+    }
+  ]
+}
